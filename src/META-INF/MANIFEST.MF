@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.ttt.LoginInterface
+Class-Path: quaqua.jar jave-1.0.2.jar dom4j-2.0.3.jar jl1.0.jar
+

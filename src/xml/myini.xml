@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ttplay> 
+  <musiclocal> 
+    <local>D:\DownLoad\±æµÿ“Ù¿÷</local> 
+  </musiclocal>  
+  <playerstatus> 
+    <isplay>false</isplay> 
+  </playerstatus>  
+  <musiclong> 
+    <time>227000</time> 
+  </musiclong>  
+  <erroplay> 
+    <iserro>false</iserro> 
+  </erroplay>  
+  <logininfo> 
+    <username>AdjoinMe</username>  
+    <password>wyy18398932805</password> 
+  </logininfo> 
+</ttplay>

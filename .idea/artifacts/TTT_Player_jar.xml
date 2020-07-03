@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="TTT Player:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TTT_Player_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TTT Player.jar">
+        <element id="module-output" name="TTT Player" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../Jar包/quaqua-9.1.nested/quaqua-9.1/Quaqua/dist/quaqua.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../Jar包/jave-1.0.2.jar/jave-1.0.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../Jar包/dom4j-2.0.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../Jar包/jl1.0.jar/jl1.0.jar" />
+    </root>
+  </artifact>
+</component>
